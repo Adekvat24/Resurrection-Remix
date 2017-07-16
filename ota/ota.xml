@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <cheeseburger>
-            <Filename>RR-N-v5.8.3-20170715-cheeseburger-Official.zip</Filename>
+        <leagoom8>
+            <Filename>RR-M-v5.7.4-20170716-leagoom8.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -19,6 +19,6 @@
             	id="Old_builds"
             	title="Build Folder"
             	description="Build Download Archive">https://sourceforge.net/projects/resurrectionremix/files/oneplus5/</OldBuildsUrl>
-	</cheeseburger>
+	</leagoom8>
     </Stable>
 </SlimOTA>
